@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Recent Posts"
+    url: /recent-posts/
+  - title: "Archive"
+    url: /year-archive/
