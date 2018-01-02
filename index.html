@@ -1,4 +1,36 @@
 ---
-layout: home
-author_profile: true
+title: "Stacking Up"
+layout: splash
+permalink: /
+date: 2018-01-02 11:05:02
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: https://images.unsplash.com/photo-1483366774565-c783b9f70e2c?auto=format&fit=crop&w=1500&q=80
+  caption: "Photo: [**Kimon Maritz**](https://unsplash.com/@kimonmaritz)"
+excerpt: "Engineer's journey to software greatness, lel"
+intro: 
+  - excerpt: 'A personal pet project to showcase talent, creativity, and curiosity about the ever-changing software landscape.'
+feature_thought_process:
+  - image_path: https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1500&q=80
+    alt: "Building - photo-credit: https://unsplash.com/@seanpollock"
+    title: "Thought Process"
+    excerpt: 'Technical and personal writeups on new and challenging work'
+    url: "/categories/#dungeon-adventure"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_musings:
+  - image_path: https://images.unsplash.com/photo-1479069938554-5c7a6ee560af?auto=format&fit=crop&w=1500&q=80
+    alt: "Musings - photo-credit: https://unsplash.com/@mariyageorgieva"
+    title: "Musings"
+    excerpt: "General thoughts on new technology and real life."
+    url: "/categories/#musings"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_thought_process" type="left" %}
+
+{% include feature_row id="feature_musings" type="right" %}
