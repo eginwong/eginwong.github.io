@@ -51,7 +51,7 @@ analytics:
 # Site Author
 author:
   name             : "Eric Wong"
-  avatar           : "https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/01c/287/16a3645.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://media.licdn.com/dms/image/C4D03AQGnMbH75MNyTA/profile-displayphoto-shrink_200_200/0?e=1527696000&v=alpha&t=rqiVvF9fQKOfFy2VP1LeWweS6wJyrbLw4-hgdbKUKcU" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aspiring full stack software engineer"
   location         : "Toronto"
   email            :
