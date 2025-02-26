@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Manager Readme"
+    url: /manager-readme/
   - title: "Recent Posts"
     url: /recent-posts/
   - title: "Archive"
